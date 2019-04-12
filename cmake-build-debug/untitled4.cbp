@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="untitled4"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/hp/CLionProjects/ZMPO555/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hp/CLionProjects/ZMPO555/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hp/CLionProjects/ZMPO555/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hp/CLionProjects/ZMPO555/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hp/CLionProjects/ZMPO555/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="untitled4">
+				<Option output="C:/Users/hp/CLionProjects/ZMPO555/cmake-build-debug/untitled4.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/hp/CLionProjects/ZMPO555/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hp/CLionProjects/ZMPO555/cmake-build-debug/Makefile&quot;  VERBOSE=1 untitled4"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hp/CLionProjects/ZMPO555/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hp/CLionProjects/ZMPO555/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hp/CLionProjects/ZMPO555/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="untitled4/fast">
+				<Option output="C:/Users/hp/CLionProjects/ZMPO555/cmake-build-debug/untitled4.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/hp/CLionProjects/ZMPO555/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hp/CLionProjects/ZMPO555/cmake-build-debug/Makefile&quot;  VERBOSE=1 untitled4/fast"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hp/CLionProjects/ZMPO555/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hp/CLionProjects/ZMPO555/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hp/CLionProjects/ZMPO555/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/hp/CLionProjects/ZMPO555/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hp/CLionProjects/ZMPO555/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hp/CLionProjects/ZMPO555/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hp/CLionProjects/ZMPO555/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hp/CLionProjects/ZMPO555/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/hp/CLionProjects/ZMPO555/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hp/CLionProjects/ZMPO555/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hp/CLionProjects/ZMPO555/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hp/CLionProjects/ZMPO555/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hp/CLionProjects/ZMPO555/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/hp/CLionProjects/ZMPO555/CGeneticAlgorithm.cpp">
+			<Option target="untitled4"/>
+		</Unit>
+		<Unit filename="C:/Users/hp/CLionProjects/ZMPO555/CGeneticAlgorithm.h">
+			<Option target="untitled4"/>
+		</Unit>
+		<Unit filename="C:/Users/hp/CLionProjects/ZMPO555/CIndividual.cpp">
+			<Option target="untitled4"/>
+		</Unit>
+		<Unit filename="C:/Users/hp/CLionProjects/ZMPO555/CIndividual.h">
+			<Option target="untitled4"/>
+		</Unit>
+		<Unit filename="C:/Users/hp/CLionProjects/ZMPO555/CKnapsackProblem.cpp">
+			<Option target="untitled4"/>
+		</Unit>
+		<Unit filename="C:/Users/hp/CLionProjects/ZMPO555/CKnapsackProblem.h">
+			<Option target="untitled4"/>
+		</Unit>
+		<Unit filename="C:/Users/hp/CLionProjects/ZMPO555/Menus/CCommand.cpp">
+			<Option target="untitled4"/>
+		</Unit>
+		<Unit filename="C:/Users/hp/CLionProjects/ZMPO555/Menus/CCommand.h">
+			<Option target="untitled4"/>
+		</Unit>
+		<Unit filename="C:/Users/hp/CLionProjects/ZMPO555/Menus/CMenu.cpp">
+			<Option target="untitled4"/>
+		</Unit>
+		<Unit filename="C:/Users/hp/CLionProjects/ZMPO555/Menus/CMenu.h">
+			<Option target="untitled4"/>
+		</Unit>
+		<Unit filename="C:/Users/hp/CLionProjects/ZMPO555/Menus/CMenuCommand.cpp">
+			<Option target="untitled4"/>
+		</Unit>
+		<Unit filename="C:/Users/hp/CLionProjects/ZMPO555/Menus/CMenuCommand.h">
+			<Option target="untitled4"/>
+		</Unit>
+		<Unit filename="C:/Users/hp/CLionProjects/ZMPO555/Menus/CMenuItem.cpp">
+			<Option target="untitled4"/>
+		</Unit>
+		<Unit filename="C:/Users/hp/CLionProjects/ZMPO555/Menus/CMenuItem.h">
+			<Option target="untitled4"/>
+		</Unit>
+		<Unit filename="C:/Users/hp/CLionProjects/ZMPO555/Menus/CrossProb.cpp">
+			<Option target="untitled4"/>
+		</Unit>
+		<Unit filename="C:/Users/hp/CLionProjects/ZMPO555/Menus/CrossProb.h">
+			<Option target="untitled4"/>
+		</Unit>
+		<Unit filename="C:/Users/hp/CLionProjects/ZMPO555/Menus/KnapsackList.cpp">
+			<Option target="untitled4"/>
+		</Unit>
+		<Unit filename="C:/Users/hp/CLionProjects/ZMPO555/Menus/KnapsackList.h">
+			<Option target="untitled4"/>
+		</Unit>
+		<Unit filename="C:/Users/hp/CLionProjects/ZMPO555/Menus/LoopGenetic.cpp">
+			<Option target="untitled4"/>
+		</Unit>
+		<Unit filename="C:/Users/hp/CLionProjects/ZMPO555/Menus/LoopGenetic.h">
+			<Option target="untitled4"/>
+		</Unit>
+		<Unit filename="C:/Users/hp/CLionProjects/ZMPO555/Menus/MutProb.cpp">
+			<Option target="untitled4"/>
+		</Unit>
+		<Unit filename="C:/Users/hp/CLionProjects/ZMPO555/Menus/MutProb.h">
+			<Option target="untitled4"/>
+		</Unit>
+		<Unit filename="C:/Users/hp/CLionProjects/ZMPO555/Menus/PopSize.cpp">
+			<Option target="untitled4"/>
+		</Unit>
+		<Unit filename="C:/Users/hp/CLionProjects/ZMPO555/Menus/PopSize.h">
+			<Option target="untitled4"/>
+		</Unit>
+		<Unit filename="C:/Users/hp/CLionProjects/ZMPO555/Menus/TimeGenetic.cpp">
+			<Option target="untitled4"/>
+		</Unit>
+		<Unit filename="C:/Users/hp/CLionProjects/ZMPO555/Menus/TimeGenetic.h">
+			<Option target="untitled4"/>
+		</Unit>
+		<Unit filename="C:/Users/hp/CLionProjects/ZMPO555/main.cpp">
+			<Option target="untitled4"/>
+		</Unit>
+		<Unit filename="C:/Users/hp/CLionProjects/ZMPO555/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
