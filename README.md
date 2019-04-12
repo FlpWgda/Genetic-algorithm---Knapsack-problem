@@ -1,4 +1,4 @@
-**Knapsack problem -genetic algorithm**<br/>
+**Knapsack problem - genetic algorithm (with templates)**<br/>
 
 Genetic algorithm for solving binary and non-binary knapsack problems with options allowing to change algorithm parameters.<br/>
 
